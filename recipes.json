@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Самогон из яблок",
-    "type": "distillation",
+    "type": "distillates",
     "description": "Крепкий дистиллированный напиток из яблочного сырья.",
     "ingredients": [
       {"name": "Яблочное пюре", "amount": 20, "unit": "кг"},
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "title": "Виски из кукурузы",
-    "type": "distillation",
+    "type": "distillates",
     "description": "Домашний виски с мягким вкусом.",
     "ingredients": [
       {"name": "Кукурузная крупа", "amount": 10, "unit": "кг"},
@@ -105,7 +105,7 @@
   {
     "id": 6,
     "title": "Ром из патоки",
-    "type": "distillation",
+    "type": "distillates",
     "description": "Тропический напиток с карамельными нотками.",
     "ingredients": [
       {"name": "Патока", "amount": 8, "unit": "кг"},
@@ -189,7 +189,7 @@
   {
     "id": 10,
     "title": "Грушевый бренди",
-    "type": "distillation",
+    "type": "distillates",
     "description": "Фруктовый дистиллят с нежным ароматом груши.",
     "ingredients": [
       {"name": "Грушевое пюре", "amount": 15, "unit": "кг"},
