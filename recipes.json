@@ -206,11 +206,11 @@
     "time": "3 месяца",
     "difficulty": "средний",
     "yield": {"amount": 4, "unit": "л", "strength": 42}
-  }
-{
+  },
+  {
     "id": 11,
     "title": "Сливовица",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Традиционный балканский фруктовый дистиллят из слив.",
     "ingredients": [
       {"name": "Сливы", "amount": 30, "unit": "кг"},
@@ -231,7 +231,7 @@
   {
     "id": 12,
     "title": "Картофельная водка",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Классический дистиллят с нейтральным вкусом.",
     "ingredients": [
       {"name": "Картофель", "amount": 20, "unit": "кг"},
@@ -253,7 +253,7 @@
   {
     "id": 13,
     "title": "Абрикосовый бренди",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Ароматный дистиллят с нотами спелых абрикосов.",
     "ingredients": [
       {"name": "Абрикосы", "amount": 25, "unit": "кг"},
@@ -273,7 +273,7 @@
   {
     "id": 14,
     "title": "Тутовка (из шелковицы)",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Сладкий дистиллят с ягодным послевкусием.",
     "ingredients": [
       {"name": "Ягоды шелковицы", "amount": 15, "unit": "кг"},
@@ -293,7 +293,7 @@
   {
     "id": 15,
     "title": "Солодовый виски",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Домашний аналог скотча с дымчатыми нотами.",
     "ingredients": [
       {"name": "Ячменный солод", "amount": 8, "unit": "кг"},
@@ -313,7 +313,7 @@
   {
     "id": 16,
     "title": "Граппа (из виноградных выжимок)",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Итальянский крепкий напиток из отходов виноделия.",
     "ingredients": [
       {"name": "Виноградные выжимки", "amount": 40, "unit": "кг"},
@@ -333,7 +333,7 @@
   {
     "id": 17,
     "title": "Персиковый джин",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Ароматизированный дистиллят с можжевельником и персиком.",
     "ingredients": [
       {"name": "Пшеничный спирт", "amount": 5, "unit": "л"},
@@ -353,7 +353,7 @@
   {
     "id": 18,
     "title": "Рисовый шочин",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Азиатский аналог саке с повышенной крепостью.",
     "ingredients": [
       {"name": "Рис", "amount": 12, "unit": "кг"},
@@ -372,7 +372,7 @@
   {
     "id": 19,
     "title": "Ореховый ликёр (дистиллятная основа)",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Крепкий сладкий напиток на грецких орехах.",
     "ingredients": [
       {"name": "Зеленые грецкие орехи", "amount": 50, "unit": "шт"},
@@ -391,7 +391,7 @@
   {
     "id": 20,
     "title": "Анисовая ракия",
-    "type": "distillate",
+    "type": "distillates",
     "description": "Балканский вариант узо с выраженным анисовым вкусом.",
     "ingredients": [
       {"name": "Виноградная брага", "amount": 30, "unit": "л"},
@@ -407,5 +407,4 @@
     "difficulty": "средний",
     "yield": {"amount": 6, "unit": "л", "strength": 45}
   }
-  
 ]
